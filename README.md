@@ -23,7 +23,7 @@ Supported Master/Clients:
 
 Supported Server:
 
-  - TCP/IP
+ - TCP/IP
 
 
 1) MB_Master software supports FC01,FC02,FC03,FC04,FC05,FC06,FC15,FC16,FC22.
@@ -32,6 +32,6 @@ Supported Server:
 
 Change Logs:
 
-16-06-2024 : Version-3.0.1 
+23-06-2024 : Version-3.0.1 
 
-     Added new functions in prototype.
+ - Added new functions in prototype.
