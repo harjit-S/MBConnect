@@ -25,6 +25,7 @@ Supported Server:
 
   - TCP/IP
 
+
 1) MB_Master software supports FC01,FC02,FC03,FC04,FC05,FC06,FC15,FC16,FC22.
 2) Unregistered version of software will run for 30 minutes of runtime.
 3) This software can be used free of cost without any guarantee or warranty.
@@ -32,4 +33,5 @@ Supported Server:
 Change Logs:
 
 16-06-2024 : Version-3.0.1 
+
      Added new functions in prototype.
