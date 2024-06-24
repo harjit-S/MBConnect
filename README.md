@@ -1,6 +1,12 @@
-Version- 3.0.1
-Harjit ©2024
-mbmaster.pc@gmail.com
+This package contains modbus master and slave protocol testers.
+
+*****************
+Modbus Master
+*****************
+
+Version-3.0.1
+
+Harjit @2024, mbmaster.pc@gmail.com
 
 MB Connect is modbus master/client/server protocol analyser. This software is build to ease the device testing & commissioning at various fields. This software does not gives guarantee or warranty for its operation or any function within this software or its related tasks.
 
