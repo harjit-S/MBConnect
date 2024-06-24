@@ -1,5 +1,3 @@
-This package contains modbus master and slave protocol testers.
-
 *****************
 Modbus Protocol Tester (Client/Server)
 *****************
