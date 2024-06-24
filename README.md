@@ -28,4 +28,5 @@ Supported Server:
 3) This software can be used free of cost without any guarantee or warranty.
 
 Change Logs:
-16-06-2024 : Version-3.0.1 - Added new functions in prototype.
+16-06-2024 : 
+Version-3.0.1 - Added new functions in prototype.
