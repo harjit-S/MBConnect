@@ -1,7 +1,7 @@
 This package contains modbus master and slave protocol testers.
 
 *****************
-Modbus Master
+Modbus Protocol Tester (Client/Server)
 *****************
 
 Version-3.0.1
