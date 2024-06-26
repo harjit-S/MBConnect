@@ -28,6 +28,14 @@ Supported Server:
 2) Unregistered version of software will run for 30 minutes of runtime.
 3) This software can be used free of cost without any guarantee or warranty.
 
+Client UI:
+
+![Screenshot 2024-06-26 111432](https://github.com/harjit-S/MBConnect/assets/121841401/720dc3b0-96db-4da8-9cc1-431a700c352e)
+
+Server UI:
+
+![Screenshot 2024-06-26 111745](https://github.com/harjit-S/MBConnect/assets/121841401/1339fa5d-5ea7-4b25-b8ef-19733e5dfefb)
+
 Change Logs:
 
 23-06-2024 : Version-3.0.1 
