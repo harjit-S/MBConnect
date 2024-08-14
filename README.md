@@ -2,7 +2,7 @@
 Modbus Protocol Tester (Client/Server)
 *****************
 
-Version-3.0.1
+Version-3.0.2
 
 Harjit @2024, mbmaster.pc@gmail.com
 
@@ -41,3 +41,7 @@ Change Logs:
 23-06-2024 : Version-3.0.1 
 
  - Added new functions in prototype.
+
+14-08-2024 : Version-3.0.2 
+
+ - Minor bug fix for server register quantity.
