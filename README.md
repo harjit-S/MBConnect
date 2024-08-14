@@ -44,4 +44,4 @@ Change Logs:
 
 14-08-2024 : Version-3.0.2 
 
- - Minor bug fix for server register quantity.
+ - Minor fix for server register quantity.
