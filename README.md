@@ -39,6 +39,11 @@ Users take full responsibility for its use. Improper configuration or a lack of 
 
 ## 🖥️ User Interface
 
+🛡️ Note:
+If Windows shows a Defender SmartScreen warning (“Windows protected your PC”), click More info → Run anyway.
+This happens because the app is unsigned.
+For permanent removal, use the digitally signed build or install the included certificate.
+
 ### **Client UI**
 ![Client Screenshot](https://github.com/harjit-S/MBConnect/assets/121841401/720dc3b0-96db-4da8-9cc1-431a700c352e)
 
