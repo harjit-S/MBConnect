@@ -1,11 +1,14 @@
 # **Modbus Protocol Tester (Client/Server)**  
-**Version 3.0.2**
 
-**Author:** Harjit  
-📧 **Email:** [mbmaster.pc@gmail.com](mailto:mbmaster.pc@gmail.com)  
-© 2024  
+**Version 3.0.2**   
+**Author:** Harjit Singh   
+**Email:** [mbmaster.pc@gmail.com](mailto:mbmaster.pc@gmail.com)     
+**Date:** 14 August 2024  
+
+---
 
 ## 🧩 Overview
+
 **MB Connect** is a Modbus Master/Client/Server protocol analyzer designed to simplify device testing and commissioning across various industrial and field applications.
 
 ⚠️ **Disclaimer:**  
@@ -16,7 +19,7 @@ Users take full responsibility for its use. Improper configuration or a lack of 
 
 ## 🛠️ Supported Protocols
 
-### **Master / Client**
+**Master / Client**
 - RTU  
 - ASCII  
 - TCP/IP  
@@ -24,9 +27,10 @@ Users take full responsibility for its use. Improper configuration or a lack of 
 - ASCII over TCP/IP  
 - UDP/IP  
 
-### **Server**
+**Server**
 - TCP/IP  
 
+---
 
 ## 📋 Functionality
 
@@ -44,21 +48,31 @@ If Windows shows a Defender SmartScreen warning (“Windows protected your PC”
 This happens because the app is unsigned.
 For permanent removal, use the digitally signed build or install the included certificate.
 
-### **Client UI**
-![Client Screenshot](https://github.com/harjit-S/MBConnect/assets/121841401/720dc3b0-96db-4da8-9cc1-431a700c352e)
-
-### **Server UI**
-![Server Screenshot](https://github.com/harjit-S/MBConnect/assets/121841401/1339fa5d-5ea7-4b25-b8ef-19733e5dfefb)
+<img width="400" height="350" alt="win_warn" src="https://github.com/user-attachments/assets/40f6aa70-dda1-46c6-ae06-49a812b4159c" />
 
 ---
 
 ## 🧾 Change Log
 
-### **Version 3.0.1** — *23 June 2024*
+**Version 3.0.1** — *23 June 2024*
 - Added new functions in prototype.
 
-### **Version 3.0.2** — *14 August 2024*
+**Version 3.0.2** — *14 August 2024*
 - Minor fix for server register quantity.
+
+
+---
+
+
+## 📷 Screenshots:
+
+**Client UI**
+
+<img width="700" height="650" alt="Client" src="https://github.com/harjit-S/MBConnect/assets/121841401/720dc3b0-96db-4da8-9cc1-431a700c352e" />
+
+**Server UI**
+
+<img width="700" height="650" alt="Client" src="https://github.com/harjit-S/MBConnect/assets/121841401/1339fa5d-5ea7-4b25-b8ef-19733e5dfefb" />
 
 ---
 
