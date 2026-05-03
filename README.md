@@ -3,7 +3,7 @@
 **Version 3.0.2**   
 **Author:** Harjit Singh   
 **Email:** [mbmaster.pc@gmail.com](mailto:mbmaster.pc@gmail.com)     
-**Date:** 14 August 2024  
+**Date:** 03 May 2026 
 
 ---
 
@@ -57,7 +57,7 @@ For permanent removal, use the digitally signed build or install the included ce
 **Version 3.0.1** — *23 June 2024*
 - Added new functions in prototype.
 
-**Version 3.0.2** — *14 August 2024*
+**Version 3.0.2** — *03 May 2026*
 - Minor fix for server register quantity.
 
 
